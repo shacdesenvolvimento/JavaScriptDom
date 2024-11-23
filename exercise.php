@@ -45,6 +45,10 @@
 </html>
 
 <script>
+
+//o querySelector pega um unico valor
+
+//o querySelectorAll pega uma lista de valores
     let e = document.querySelector('.noticia')
     console.log(e)
     let i = document.querySelector('#titulo')
