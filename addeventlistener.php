@@ -20,7 +20,7 @@
     //addEventListener adiciona um evento - em resumo um butão pode não ter nenhuma ação ou função atribuida e com addEventListener atribuir uma ou mais função ao elemento 
     //Erofunction
     /*  document.querySelector("#exemplo").addEventListener('click', () => {
-         //funcionalidades
+         //funcionalidadesremoveEventListener
      }) */
     //Chamando a função
     document.querySelector("#adicionar").addEventListener('click', adicionar_eventos)
