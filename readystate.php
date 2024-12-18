@@ -21,6 +21,7 @@
         document.addEventListener('DOMContentLoaded', () => {
             console.log('documento carregado')
         })
+        //esse é depois de toda a pagina carregado
         window.addEventListener('load', () => {
             console.log('documento completo')
         })
